@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Freesprung]]></title>
+        <description><![CDATA[Freesprung]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jul 2016 03:43:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[7 Hand Polishing Techniques]]></title>
+            <description><![CDATA[<article><h1>7 Hand Polishing Techniques</h1><p> </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcb67223-cbf5-49a7-b80b-3e698017c6d4.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcb67223-cbf5-49a7-b80b-3e698017c6d4.png</link>
+            <guid isPermaLink="false">fd5fb7c1-a00d-44c0-ae4a-8296098e9c08</guid>
+            <pubDate>Tue, 26 Jul 2016 03:43:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
