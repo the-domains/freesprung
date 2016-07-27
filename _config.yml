@@ -1,4 +1,23 @@
+name: Freesprung
+favicon: null
+layout_spectrum: 0.54021
 typography_spectrum: 0.4788
+navigation:
+  - id: fd5fb7c1-a00d-44c0-ae4a-8296098e9c08
+    name: Polishing
+    type: content
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -10,23 +29,4 @@ color:
   lightness: 0.5
   saturation: 0.625
   rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.71573
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Freesprung
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - id: fd5fb7c1-a00d-44c0-ae4a-8296098e9c08
-    name: Polishing
-    type: content
-favicon: null
 purpose: []
