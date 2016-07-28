@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-28T01:12:43.136Z'
+datePublished: '2016-07-28T01:16:13.466Z'
 sourcePath: _posts/2016-07-28-it-is-in-keeping-with-hans-wilsdorfs-personal-wishes-that.md
 author: []
 via: {}
-dateModified: '2016-07-28T01:12:42.213Z'
-title: ''
+dateModified: '2016-07-28T01:16:11.364Z'
+title: The Real Mr. Wilsdorf
 publisher: {}
 description: >-
   “It is in keeping with Hans Wilsdorf’s personal wishes that the English church
@@ -16,6 +16,8 @@ inNav: false
 _type: MediaObject
 
 ---
+# The Real Mr. Wilsdorf
+
 ["It is in keeping with Hans Wilsdorf's personal wishes that the English church clock is maintained by Rolex."][0]
 
 ["For how long?"][0]
