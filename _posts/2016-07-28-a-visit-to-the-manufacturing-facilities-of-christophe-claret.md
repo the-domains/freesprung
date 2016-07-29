@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-28T01:08:06.955Z'
+datePublished: '2016-07-29T01:54:01.969Z'
 sourcePath: >-
   _posts/2016-07-28-a-visit-to-the-manufacturing-facilities-of-christophe-claret.md
 author: []
 via: {}
-dateModified: '2016-07-28T01:08:05.593Z'
+dateModified: '2016-07-29T01:54:01.602Z'
 title: A visit to the manufacturing facilities of Christophe Claret
 publisher: {}
 description: ''
