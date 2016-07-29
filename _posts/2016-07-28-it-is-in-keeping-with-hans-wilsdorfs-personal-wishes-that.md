@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-28T01:33:52.786Z'
+datePublished: '2016-07-29T01:54:15.947Z'
 sourcePath: _posts/2016-07-28-it-is-in-keeping-with-hans-wilsdorfs-personal-wishes-that.md
 author: []
 via: {}
-dateModified: '2016-07-28T01:33:51.904Z'
+dateModified: '2016-07-29T01:54:15.460Z'
 title: The Real Mr. Wilsdorf
 publisher: {}
 description: >-
